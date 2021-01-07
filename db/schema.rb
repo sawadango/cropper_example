@@ -24,5 +24,4 @@ ActiveRecord::Schema.define(version: 2020_12_17_151347) do
     t.bigint "avatar_file_size"
     t.datetime "avatar_updated_at"
   end
-
 end
